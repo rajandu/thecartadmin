@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#D1AA48</color>
+    <color name="colorPrimaryDark">#D1AA48</color>
+    <color name="colorAccent">#ffffff</color>
+    <color name="successGreen">#11a10c</color>
+    <color name="recyclerviewBackground">#d6d6d6</color>
+    <color name="coupanPurple">#6B40DF</color>
+    <color name="black">#000000</color>
+    <color name="coupanRed">#FFDD30</color>
+</resources>
